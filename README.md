@@ -1,4 +1,4 @@
-## Olá me chamo Afonso Bezerra e sou programador Front-end! :nerd_face:
+<p align="center"><img width="80%" src="./assets/read.png" /></a></p>
 
 - 💼 Programador Front-end CRB Sorocaba (https://www.crbconstrutora.com.br/)
 
