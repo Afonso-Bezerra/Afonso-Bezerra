@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./assets/read.png" /></a></p>
+<p align="center"><img width="40%" src="./assets/read.png" /></a></p>
 
 - 💼 Programador Front-end CRB Sorocaba (https://www.crbconstrutora.com.br/)
 
