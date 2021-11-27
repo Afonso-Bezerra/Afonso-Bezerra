@@ -1,9 +1,17 @@
-## Olá eu sou o Afonso Bezerra, programador Front-end!
-<div align="center">
-  <a href="https://github.com/Afonso-Bezerra">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afonso-Bezerra&show_icons=true&theme=drak&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonso-Bezerra&layout=compact&langs_count=7&theme=drak"/>
-</div>
+## Olá me chamo Afonso Bezerra e sou programador Front-end! :nerd_face:
+
+- 💼 Programador Front-end CRB Sorocaba (https://www.crbconstrutora.com.br/)
+
+- :books: Estudo Engenharia da Computação
+
+- :hearts: Sou apaixado em fazer coisas novas e adquirir conhecimentos
+
+
+</br>
+
+| <a href="https://github.com/Afonso-Bezerra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Afonso-Bezerra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Afonso github stats" /></a> | <a href="https://github.com/Afonso-Bezerra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonso-Bezerra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Afonso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Afonso-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
