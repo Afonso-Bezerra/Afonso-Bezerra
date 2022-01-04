@@ -9,7 +9,7 @@
 
 </br>
 
-| <a href="https://github.com/Afonso-Bezerra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Afonso-Bezerra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Afonso github stats" /></a> | <a href="https://github.com/Afonso-Bezerra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonso-Bezerra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Afonso-Bezerra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Afonso-Bezerra&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Afonso github stats" /></a> | <a href="https://github.com/Afonso-Bezerra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonso-Bezerra&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div style="display: inline_block"><br>
